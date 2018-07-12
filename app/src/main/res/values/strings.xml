@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyA3</string>
+    <string name="matrikel">Matrikelnr: 01328515</string>
+    <string name="my_name">Mehmet Ali Efeoglu</string>
+    <string name="confirm_button">Show me the Weather forecast!</string>
+    <string name="date">31/03/2018</string>
+    <string name="temp_average">Avr Temperature:</string>
+    <string name="temp_min">Min Temperature:</string>
+    <string name="temp_max">Max Temperature:</string>
+    <string name="filler_text">Filler</string>
+    <string name="content_desc">Picture of the selected City</string>
+    <string name="day">Monday</string>
+
+</resources>
